@@ -11,7 +11,7 @@ model/FIDNet.py
 
 ## Running
 For training and testing, you can use the code provided in the [RAS2S](https://github.com/MIV-XJTU/RAS2S). 
-Simply place the model file `model/FIDNet.py` into the appropriate `basic/models/competing_method`s directory, and ensure that the path to checkpoint/fidnet.pth is correctly set.
+Simply place the model file `model/FIDNet.py` into the `basic/models/competing_methods` directory, and ensure that the path to checkpoint/fidnet.pth is correctly set.
 
 ## Citation
 
